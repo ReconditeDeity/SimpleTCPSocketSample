@@ -1,0 +1,14 @@
+{
+  "name": "engine",
+  "version": "0.0.1",
+  "description": "Engine",
+  "main": "client.js",
+  "author": {
+    "name": "ReconditeDeity"
+  },
+  "scripts": {
+    "client": "node client.js",
+    "server": "node server.js",
+    "start": "node client.js"
+  }
+}
